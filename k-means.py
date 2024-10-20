@@ -1,3 +1,7 @@
+#Install this files before exceuting the code
+#1) pip install scikit-learn
+#2) pip install matplotlib
+
 # Import necessary libraries
 import numpy as np
 import matplotlib.pyplot as plt
